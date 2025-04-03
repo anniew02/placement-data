@@ -1,1 +1,1 @@
-# placement-data
+# STAT 301 Term Project
